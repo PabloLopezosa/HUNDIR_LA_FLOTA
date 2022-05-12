@@ -6,4 +6,4 @@
 
 Con este proyecto realizado en The Bridge, te invito a jugar a hundir la flota de Jack Sparrow.
 
-Este es el primer proyecto que nos lanzaron desde en el Bootcamp usando puramente Python. Fue desarrollado en la segunda semana , por lo que el código no es perfecto, hay mucho margen de mejora y será optimizado en una segunda versión.
+Este es el primer proyecto que nos lanzaron desde The Bridge. Fue desarrollado en phyton en la segunda semana del bootcamp , por lo que el código no es perfecto, hay mucho margen de mejora y será optimizado en una segunda versión.
